@@ -1,0 +1,12 @@
+{
+  "name": "memetoken",
+  "version": "1.0.0",
+  "description": "Meme Token with tax and liquidity integration",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.21.0"
+  }
+}
